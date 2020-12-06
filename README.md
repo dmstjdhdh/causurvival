@@ -4,3 +4,4 @@
 <img width = "200" src = "https://user-images.githubusercontent.com/71542970/101277690-886a8a00-37f9-11eb-9a59-7558e894261b.JPG">
 </div>
 # 생존전략게임
+2020
