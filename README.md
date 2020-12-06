@@ -17,6 +17,30 @@
 주인공의 주위에는, 사과, 코코넛과 같은 과일, 그리고 자신의 생존을 위협하는 동물들이 존재합니다!!
 각 지형마다 나오는 과일의 종류, 동물들이 다르기 때문에 지형의 특성을 파악하는것이 중요합니다.
 
+# 움직임 규칙
+
+이곳은 당신이 움직일 때마다 시간이 지납니다.
+방향키를 통해 한번씩 움직일 때마다, 당신의 Turn이 증가하고,
+이 곳에서의 하루는 Turn 20입니다.
+
+<div>
+<img width = "200" src = "https://user-images.githubusercontent.com/71542970/101278120-94a41680-37fc-11eb-8762-b36b1728134e.png">
+</div>
+<div>
+<img width = "200" src = "https://user-images.githubusercontent.com/71542970/101278124-9968ca80-37fc-11eb-82e0-53a581bdccf4.png">
+</div>
+
+낮과 밤은, menu에 나오는 해의 모습과 달의 모습을 통해 알 수 있습니다.
+또한, 하루의 절반은 낮, 절반은 밤입니다.
+
+<div>
+<img width = "500" src = "https://user-images.githubusercontent.com/71542970/101278110-8d7d0880-37fc-11eb-8336-4456b955e13f.JPG">
+</div>
+
+밤에는 당신의 시야가 구름에 가려지고, 시야가 어두워집니다.
+몬스터와 과일의 리젠이 이루어지지 않으므로, 자신이 어딜 걷고 있는지,
+무엇을 먹고 있는지 확인을 잘 해야할 것입니다.
+
 # 과일
 <div>
 <img width = "250" src = "https://user-images.githubusercontent.com/71542970/101277705-991b0000-37f9-11eb-9178-362c8b8e04e7.JPG">
@@ -55,4 +79,10 @@
 <img width = "250" src = "https://user-images.githubusercontent.com/71542970/101277716-a0420e00-37f9-11eb-8a13-c769fb380dbd.JPG">
 </div>
   악어
+  
+각각의 동물에는 
+<div>
+<img width = "250" src = "https://user-images.githubusercontent.com/71542970/101278122-979f0700-37fc-11eb-9d77-21ef490b0656.png">
+</div>
+표시와
 
