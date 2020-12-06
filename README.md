@@ -92,7 +92,18 @@
 
 # Menu
 <div>
-<img width = "300" src = "https://user-images.githubusercontent.com/71542970/101277698-91f3f200-37f9-11eb-8fcd-1092aa83cbb0.JPG">
+<img width = "400" src = "https://user-images.githubusercontent.com/71542970/101277698-91f3f200-37f9-11eb-8fcd-1092aa83cbb0.JPG">
 </div>
   키보드의 Tab을 클릭하면, 자신의 Day, Turn, level, HP, heart, 그리고 동물과 과일의 히스토리북을 볼 수 있습니다!!
   보스와 싸우기 위해서는 정해진 만큼의 동물을 해치워야하니, 잘 확인하면서 플레이하시면 좋겠습니다!
+
+# Boss!!
+
+정글에는 숨겨진 정글의 왕이 있기 마련입니다.
+히스토리북에 있는 어떤 조건을 충족시키면, 맵의 중앙에 숨겨진 히든 보스가 나타납니다!!
+<div>
+<img width = "200" src = "https://user-images.githubusercontent.com/71542970/101278113-91108f80-37fc-11eb-9d66-f2c994749625.png">
+</div>
+
+보스가 나타나면, 우측 상단에 보스의 체력이 나타나게 됩니다!
+보스는 꽤나 강력하기 때문에, 전략을 잘 짜셔서, 보스를 클리어하시길 바랍니다!!
