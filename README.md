@@ -80,9 +80,19 @@
 </div>
   악어
   
-각각의 동물에는 
+  각각의 동물에는 
 <div>
-<img width = "250" src = "https://user-images.githubusercontent.com/71542970/101278122-979f0700-37fc-11eb-9d77-21ef490b0656.png">
+<img width = "150" src = "https://user-images.githubusercontent.com/71542970/101278122-979f0700-37fc-11eb-9d77-21ef490b0656.png">
 </div>
-표시와
+<div>
+<img width = "150" src = "https://user-images.githubusercontent.com/71542970/101278289-bc47ae80-37fd-11eb-8857-ca9d1a139d48.png">
+</div>
+  표시가 있습니다. sword표시는 그 동물의 공격력을 뜻하고, heart표시는 당신의 공격력으로 죽일 수 있는 동물의 생명입니다.
+  당신의 공격력이 만약 5보다 낮다면, 원숭이는 잡지 못하겠죠?
 
+# Menu
+<div>
+<img width = "300" src = "https://user-images.githubusercontent.com/71542970/101277698-91f3f200-37f9-11eb-8fcd-1092aa83cbb0.JPG">
+</div>
+  키보드의 Tab을 클릭하면, 자신의 Day, Turn, level, HP, heart, 그리고 동물과 과일의 히스토리북을 볼 수 있습니다!!
+  보스와 싸우기 위해서는 정해진 만큼의 동물을 해치워야하니, 잘 확인하면서 플레이하시면 좋겠습니다!
