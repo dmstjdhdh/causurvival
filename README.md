@@ -4,6 +4,8 @@
 <img width = "200" src = "https://user-images.githubusercontent.com/71542970/101277690-886a8a00-37f9-11eb-9a59-7558e894261b.JPG">
 </div>
 youtube소개영상입니다. https://www.youtube.com/watch?v=meX5hpRGw4w
+
+
 # 생존전략게임 (survive on paper)
 주인공은 현재 종이 속 세계의 정글에 떨어졌습니다!!
 ## 다음은 게임의 주인공, 그리고 주인공의 세계입니다.
